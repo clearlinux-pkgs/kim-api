@@ -1,0 +1,2 @@
+-DBASH_COMPLETION_COMPLETIONSDIR=/usr/share/bash-completion/completions
+-DZSH_COMPLETION_COMPLETIONSDIR=/usr/share/zsh/functions/Completion/Unix 

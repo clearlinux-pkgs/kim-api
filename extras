@@ -1,0 +1,13 @@
+/usr/lib64/kim-api/model-drivers/LennardJones612__MD_414112407348_003/libkim-api-model-driver.so
+/usr/lib64/kim-api/model-drivers/ex_model_driver_P_LJ/libkim-api-model-driver.so
+/usr/lib64/kim-api/model-drivers/ex_model_driver_P_Morse/libkim-api-model-driver.so
+/usr/lib64/kim-api/portable-models/LennardJones612_UniversalShifted__MO_959249795837_003/libkim-api-portable-model.so
+/usr/lib64/kim-api/portable-models/LennardJones_Ar/libkim-api-portable-model.so
+/usr/lib64/kim-api/portable-models/ex_model_Ar_P_LJ/libkim-api-portable-model.so
+/usr/lib64/kim-api/portable-models/ex_model_Ar_P_MLJ_Fortran/libkim-api-portable-model.so
+/usr/lib64/kim-api/portable-models/ex_model_Ar_P_Morse/libkim-api-portable-model.so
+/usr/lib64/kim-api/portable-models/ex_model_Ar_P_Morse_07C/libkim-api-portable-model.so
+/usr/lib64/kim-api/portable-models/ex_model_Ar_P_Morse_07C_w_Extensions/libkim-api-portable-model.so
+/usr/lib64/kim-api/portable-models/ex_model_Ar_P_Morse_MultiCutoff/libkim-api-portable-model.so
+/usr/lib64/kim-api/portable-models/ex_model_Ar_SLJ_MultiCutoff/libkim-api-portable-model.so
+/usr/lib64/kim-api/simulator-models/Sim_LAMMPS_LJcut_AkersonElliott_Alchemy_PbAu/libkim-api-simulator-model.so
